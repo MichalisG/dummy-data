@@ -1,13 +1,13 @@
 {
   "maxSupply": "30",
+  "raffleCap": "4",
+  "personalCap": "4",
   "teamAllocation": "5",
-  "raffleCap": "2",
-  "personalCap": "2",
   "presalePrice": "50000000000000000",
   "publicPrice": "75000000000000000",
-  "preSaleEndTs": "1646236800",
-  "raffleStartTs": "1646236800",
-  "raffleEndTs": "1646240400",
-  "publicStartTs": "1646244000",
-  "revealTimestamp": "1646247600"
+  "preSaleEndTs": "1646733600",
+  "raffleStartTs": "1646733600",
+  "raffleEndTs": "1646735400",
+  "publicStartTs": "1646739000",
+  "revealTimestamp": "1646746200"
 }
