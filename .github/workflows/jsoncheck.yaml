@@ -7,7 +7,7 @@ on:
   pull_request:
 
 jobs:
-  json-validator:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,4 +15,3 @@ jobs:
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
-
