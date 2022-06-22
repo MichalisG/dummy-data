@@ -1,0 +1,30 @@
+{
+  "name": "Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
+  "keywords": [
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-06-10T15:42:00+00:00",
+  "tokens": [
+    {
+      "chainId": 199,
+      "address": "0xbDD72874A6b7dC7f9001E7B11E2A93e2199a051d",
+      "decimals": 18,
+      "name": "Quack",
+      "symbol": "QUACK",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x8C0c6B6e31A8b57D6eAB31391950bFaD4f8eb229/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    }
+  ]
+}
