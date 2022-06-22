@@ -25,6 +25,14 @@
       "name": "USD Coin",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    },
+    {
+      "chainId": 199,
+      "address": "0xbDD72874A6b7dC7f9001E7B11E2A93e2199a051d",
+      "decimals": 18,
+      "name": "Dummy",
+      "symbol": "PGL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
     }
   ]
 }
