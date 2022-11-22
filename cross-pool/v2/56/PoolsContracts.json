@@ -1,0 +1,584 @@
+[
+  {
+    "address": "0x15AEF019093b924C716846C8d3Bc8BCF1d019317",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "184.65",
+      "1": "23.26"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16135015",
+      "endBlock": "16538214",
+      "claimDelay": "16137895",
+      "unstakeDelayDuration": "201600",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 14,
+      "rewardTokens": [
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "892859357290072644",
+        "347223083390583806"
+      ],
+      "totalReward": [
+        "359999999999999999988156",
+        "139999999999999999995394"
+      ],
+      "rewardProcessor": "0x2c14fb0a90e2C27f4104a493A29B8b1638C7997F",
+      "rewardVault": "0x6Ff9718c035821E0FDF67cfEAf15A23Ed7bA94Be",
+      "stakingPools": [
+        {
+          "stakingToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+          "allocationPoints": 750,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "16192615"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 250,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "16192615"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "16480614",
+      "fees": {
+        "feeManager": "0x99Dd53DCb232BB5BF507eBF728b6E1b168B0556F",
+        "protocolFee": 2,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 16423015
+      }
+    }
+  },
+  {
+    "address": "0xeE6859f9923c71d7392A436213570956AD7C6735",
+    "name": "SHILL",
+    "decimals": 18,
+    "priority": 1990,
+    "keywords": ["hotcross", "shill"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming.",
+    "description": "Project SEED is a GameFi Metaverse Ecosystem built by an AAA Game Studio that develops a mobile-focused blockchain gaming that utilizes Multi-Chain Hybrid Technology and integrates Game Hub, GameFi, DAO, ESports, and Growth Program. Aiming to revolutionize the gaming industry by introducing traditional gaming industry standards into the blockchain gaming ecosystem, Project SEED integrates all GameFi functions within the application, making the experience seamless for the players",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/seed.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://projectseed.io/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/projectseedgame"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/projectseedannouncements"
+      },
+      "apeSwap": {
+        "label": "ApeSwap",
+        "url": "https://app.apeswap.finance/swap?outputCurrency=0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16456755",
+      "endBlock": "19048754",
+      "claimDelay": "17320755",
+      "unstakeDelayDuration": "201600",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 90,
+      "rewardTokens": [
+        "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "347222356181464576"
+      ],
+      "totalReward": [
+        "899999999999999999527424"
+      ],
+      "rewardProcessor": "0x75468C463852Db4512599828d33ed447f3Cb869d",
+      "rewardVault": "0x37F010d17A07C87e0eB370aAF58a12a52ED70b21",
+      "stakingPools": [
+        {
+          "stakingToken": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "16456755"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "16456755"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "19048754",
+      "fees": {
+        "feeManager": "0xbdB8CE0DA60858702fdcc28b78Bd91b199FdAEfd",
+        "protocolFee": 2,
+        "withdrawPenaltyFee": 1000,
+        "withdrawPenaltyBlock": 17320755
+      }
+    }
+  },
+  {
+    "address": "0xbd415Bb647E7D7d96365C68f5877E8347038833A",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16885569",
+      "endBlock": "18613570",
+      "claimDelay": "16888449",
+      "unstakeDelayDuration": "1699200",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703368805920829",
+        "578703368805920829"
+      ],
+      "totalReward": [
+        "999999999999999998432829",
+        "999999999999999998432829"
+      ],
+      "rewardProcessor": "0x4cea7d9E675DAcEdA7298B64f7ffE209Ea324b26",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x746a41Fa29cce983ecaf80708E8559F0b4D2a768",
+      "stakingPools": [
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "1000000000000000000000000",
+          "capValidUntilBlock": "16971969"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18555969",
+      "fees": {
+        "feeManager": "0x45aF120CCF7D5cE80781C5E467513d38eFb06e5B",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 0,
+        "withdrawPenaltyBlock": 16885569
+      }
+    }
+  },
+  {
+    "address": "0x31cc6882152E966e5Df6f24548feb36d94d65255",
+    "name": "HOTDOG+HOTCROSS",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotcross", "hotdog"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "Hot Cross is an extensive multi-chain and cross-chain tool suite.",
+    "description": "Hot Cross is an extensive multi-chain and cross-chain tool suite that enables blockchain teams and their communities to thrive. At its core, Hot Cross aims to be the best toolbox for ETH and EVM networks.",
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+      "https://media.githubusercontent.com/media/hotcrosscom/brand/main/token/200w/token.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "http://www.hotcross.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
+      }
+    },
+    "chaindata": {
+      "startBlock": "16914316",
+      "endBlock": "18642317",
+      "claimDelay": "17778316",
+      "unstakeDelayDuration": "2880",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "578703368805920829",
+        "578703368805920829"
+      ],
+      "totalReward": [
+        "999999999999999998432829",
+        "999999999999999998432829"
+      ],
+      "rewardProcessor": "0x8CEA606dBaC2045EA29e8369211db9CdE7e06193",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x49b278F4849cFDcb30Ef280fc5a9275d5fBa7C8F",
+      "stakingPools": [
+        {
+          "stakingToken": "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "100000000000000000000000",
+          "capValidUntilBlock": "17000716"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18613516",
+      "fees": {
+        "feeManager": "0x3C7ED27D38B8855FfAA8490488f77eeB3D6058d5",
+        "protocolFee": 0,
+        "withdrawPenaltyFee": 1000,
+        "withdrawPenaltyBlock": 17115916
+      }
+    }
+  },
+  {
+    "address": "0xFE4150F65b57558022Cf24245A7Cd1847f61B269",
+    "name": "FRONT+HOTDOG",
+    "decimals": 18,
+    "priority": 1980,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "Frontier is a chain-agnostic DeFi aggregation layer.",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
+    "image": "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+    "keywords": ["front", "hotdog"],
+    "images": [
+      "https://raw.githubusercontent.com/hotcrosscom/assets/master/blockchains/smartchain/assets/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b/logo.png",
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://frontier.xyz/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/FrontierDotXYZ"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/FrontierDotXYZ"
+      },
+      "pancakeSwap": {
+        "label": "PancakeSwap",
+        "url": "https://pancakeswap.finance/swap?outputCurrency=0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17371857",
+      "endBlock": "19099858",
+      "claimDelay": "17371857",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "115740673761184165",
+        "28935168440296041"
+      ],
+      "totalReward": [
+        "199999999999999998304165",
+        "49999999999999999144041"
+      ],
+      "rewardProcessor": "0x21B0aEEa405088D120c893D6034FCA43Be93EcAC",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0xfE0D6FC0Bd9cA56CBE0Ccdeebba414AFc6C37433",
+      "stakingPools": [
+        {
+          "stakingToken": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "20000000000000000000000",
+          "capValidUntilBlock": "17458257"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "50000000000000000000000",
+          "capValidUntilBlock": "17458257"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18725457",
+      "fees": {
+        "feeManager": "0xaE3acf182D40087f0B4204068f2C241994e31B98",
+        "protocolFee": 1,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 18235857
+      }
+    }
+  },
+  {
+    "address": "0xCaE76D6D35b7F1e03451AC28878024bFBAFA4c34",
+    "name": "RANKER+HOTDOG",
+    "decimals": 18,
+    "priority": 1980,
+    "completedAPR": {
+      "0": "0",
+      "1": "0"
+    },
+    "subtitle": "RankerDAO is a decentralized autonomous organization (DAO) that enables its vast guild of gamers.",
+    "description": "RankerDAO is a decentralized autonomous organization (DAO) that enables its guild of gamers to take advantage of its extensive collection of NFTs to gain access to a variety of the most popular P2E games in the industry.",
+    "keywords": ["hotcross", "ranker", "rankerdao", "hotdog"],
+    "images": [
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/ranker_logo.png",
+      "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png"
+    ],
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://rankerdao.com/"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/rankerdao"
+      },
+      "discord": {
+        "label": "Discord",
+        "url": "https://discord.com/invite/rankerdao"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/rankerdao"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17455245",
+      "endBlock": "19183245",
+      "claimDelay": "17455245",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18",
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "2314814814814814814",
+        "28935185185185185"
+      ],
+      "totalReward": [
+        "3999999999999999998592000",
+        "49999999999999999680000"
+      ],
+      "rewardProcessor": "0x7e854b49dC5099C3368842Fb76FA32FE1aeF3EF1",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x00bE6236ef97BCFDa19fbcfbe97bD13Df96B04c6",
+      "stakingPools": [
+        {
+          "stakingToken": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711",
+          "allocationPoints": 700,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "17455245"
+        },
+        {
+          "stakingToken": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+          "allocationPoints": 300,
+          "pid": 1,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "17455245"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18780045",
+      "fees": {
+        "feeManager": "0xFEdf030E1db37fB7b981BD35637CE97D19fF89Fa",
+        "protocolFee": 1,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 19154445
+      }
+    }
+  },
+  {
+    "address": "0x504C4a8aB4dBc6A957BE94C2AeCB78b466429512",
+    "name": "HOTDOG",
+    "decimals": 18,
+    "priority": 2000,
+    "keywords": ["hotdog",  "Cross Bosses Index", "CBi"],
+    "completedAPR": {
+      "0": "0"
+    },
+    "subtitle": "A reflect loyalty token with a 3% transfer fee given to holders, and other incentives.",
+    "description": "The purpose of the Hot Dog Token is to strengthen the Hot Cross community and incentivize platform users with HOTDOG-only events.",
+    "image": "https://hotcross-public.s3.ap-southeast-1.amazonaws.com/images/hot-dog.png",
+    "links": {
+      "website": {
+        "label": "Website",
+        "url": "https://docs.hotcross.com/oink/fundamentals/hot-dog-token"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/hotcrosscom"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "url": "https://t.me/HotCross"
+      }
+    },
+    "chaindata": {
+      "startBlock": "17565197",
+      "endBlock": "19293197",
+      "claimDelay": "17565197",
+      "unstakeDelayDuration": "864000",
+      "totalAllocationPoints": "1000",
+      "farmingPeriod": 60,
+      "rewardTokens": [
+        "0xd6aB096eCE76789620A6aCdC34f8dADD04627DC5"
+      ],
+      "rewardDecimals": [
+        "18"
+      ],
+      "rewardsPerBlock": [
+        "86805555555555555"
+      ],
+      "totalReward": [
+        "149999999999999999040000"
+      ],
+      "rewardProcessor": "0x9d0A28E14C3D904944eB2bdD1f087525eAaF0402",
+      "ammRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "rewardVault": "0x7a13FAD5385ede37A51c6bF94d3BCc6A2553C831",
+      "stakingPools": [
+        {
+          "stakingToken": "0x6Ae448EC22f1507Be2243FE51E36FDadD2b3eD8A",
+          "allocationPoints": 1000,
+          "pid": 0,
+          "swapPath": [],
+          "decimals": "18",
+          "depositCap": "0",
+          "capValidUntilBlock": "17565197"
+        }
+      ],
+      "compoundEnabled": false,
+      "latestUnstakeDelayBlock": "18889997",
+      "fees": {
+        "feeManager": "0x3A173c730f03B85318a9767fbc4F5e5ed7b313Ea",
+        "protocolFee": 1,
+        "withdrawPenaltyFee": 500,
+        "withdrawPenaltyBlock": 19264397
+      }
+    }
+  }
+]
